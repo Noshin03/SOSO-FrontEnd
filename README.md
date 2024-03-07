@@ -12,7 +12,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console. \
+The background image is a cropped part of this image, source and credits go to the owners:  <a href="https://www.freepik.com/free-vector/spacecraft-realistic-background_26764891.htm#query=space%20satellite%20dish%20stars&position=6&from_view=keyword&track=ais&uuid=014b96ff-7560-49ad-9294-fa6aea82bc13">Image by macrovector</a> on Freepik
 
 ### `npm test`
 
